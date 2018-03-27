@@ -1,1 +1,2 @@
-print "This is a Ruby file"
+bool = True
+print bool
