@@ -1,2 +1,3 @@
 # A new ruby file
-name = "new_ruby_file.rb"
+name = gets.chomp
+print "Hello #{name}"
